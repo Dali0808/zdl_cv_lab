@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="zdl" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/MiniConda/miniconda3/envs/zdl" project-jdk-type="Python SDK" />
 </project>
